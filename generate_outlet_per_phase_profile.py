@@ -58,13 +58,13 @@ def snmp_oid_for_unit_and_obis(unit_id, obis):
 def unit_name(unit_id):
     if unit_id == 0:
         return "main"
-    return f"unit_{unit_id}"
+    return f"link_{unit_id}"
 
 
 def unit_suffix(unit_id):
     if unit_id == 0:
         return "Main"
-    return f"Unit{unit_id}"
+    return f"Link{unit_id}"
 
 
 # ---- Datadog profile header ----
