@@ -78,12 +78,12 @@ Each script prints a **complete Datadog SNMP profile** to stdout:
   Small helper that:
   1. Runs all generator scripts.
   2. Writes the individual profiles:
-     - `bachmann_inlet.yml`
-     - `bachmann_phase.yml`
-     - `bachmann_outlet.yml`
-     - `bachmann_io.yml`
-     - `bachmann_env.yml`
-  3. Writes the parent profile `bachmann_pdu.yml` that `extends` all of them.
+     - `bachmann_inlet.yaml`
+     - `bachmann_phase.yaml`
+     - `bachmann_outlet.yaml`
+     - `bachmann_io.yaml`
+     - `bachmann_env.yaml`
+  3. Writes the parent profile `bachmann_pdu.yaml` that `extends` all of them.
 
 ---
 
