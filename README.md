@@ -90,9 +90,6 @@ Each script prints a **complete Datadog SNMP profile** to stdout:
 ## Requirements
 
 - Python **3.8+** (anything reasonably recent should work)
-- A Datadog Agent with the SNMP integration enabled (for actual use)
-- `datadog-agent` CLI available (for local validation)
-
 ---
 
 ## Usage
