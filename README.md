@@ -26,6 +26,13 @@ The repo generates these profiles:
 
 Each profile is a valid Datadog SNMP profile and can be dropped into the DataDog Agent’s `snmp.d/profiles` directory.
 
+## Where to place the generated profiles
+  - all generated YAML files, place all of them under:/etc/datadog-agent/conf.d/snmp.d/profiles/ This is the supported location for custom SNMP profiles, and keeps them safe from being overwritten by Agent upgrades.
+    
+## Which profile to reference in snmp.d/conf.yaml
+  - In your Agent’s snmp.d/conf.yaml, reference the parent profile so that the Agent uses the combined definitions. For our Bachmann PDUs, that’s **profile: bachmann_pdu**
+  - This tells Datadog to apply the single parent profile, which extends all the individual metric and status profiles you’ve generated.
+
 ---
 
 ## Supported Topology
