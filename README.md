@@ -12,12 +12,17 @@ The goal is to keep all the  OID math and repetition in code, and auto-generate 
 
 The repo generates these profiles:
 
-- `bachmann_inlet.yaml` – inlet-level electrical metrics (per unit)
-- `bachmann_phase.yaml` – per-phase electrical metrics (L1, L2, L3 per unit)
-- `bachmann_outlet.yaml` – per-phase, per-outlet electrical metrics
-- `bachmann_io.yaml` – IO / digital channel metrics (input/output channels)
-- `bachmann_env.yaml` – environmental sensors (temperature + humidity)
-- `bachmann_pdu.yaml` – **parent profile** that extends all of the above
+Category	Generator Script	Output File
+Inlet electrical metrics	generate_inlet_profile.py	**bachmann_inlet_metrics.yaml**
+Phase electrical metrics	generate_phase_profile.py	**bachmann_phase_metrics.yaml**
+outlet per phase metrics	generate_outlet_per_phase_profile.py	**bachmann_outlet_metrics.yaml**
+IO channels metrics	generate_io_profile_metrics.py	**bachmann_io_metrics.yaml**
+Environmental sensors	generate_sensor_profile.py	**bachmann_sensors_metrics.yaml**
+Inlet status	generate_inlet_status_profile.py	**bachmann_inlet_status.yaml**
+Phase status	generate_phase_status_profile.py	**bachmann_phase_status.yaml**
+Outlet status	generate_outlet_status_profile.py **bachmann_outlet_status.yaml**
+Global PDU status generate_global_status_profile.py **bachmann_global_status.yaml**
+Parent profile	(auto-built in main.py)	**bachmann_pdu.yaml**
 
 Each profile is a valid Datadog SNMP profile and can be dropped into the DataDog Agent’s `snmp.d/profiles` directory.
 
@@ -25,44 +30,56 @@ Each profile is a valid Datadog SNMP profile and can be dropped into the DataDog
 
 ## Supported Topology
 
-- **Main PDU**: `unit_id = 0`, tagged as `unit_name:main`
-- **Link PDUs**: `unit_id = 1..19`, tagged as `unit_name:link_<n>`
-- **3 phases per unit**: `L1`, `L2`, `L3`
-- **4 outlets per phase** (0–3)
-- Up to **10 environmental sensors** per unit
-- IO channels (input/output) per unit
+Element	Details
+Main PDU	unit_id = 0, tagged unit_name:main
+Link PDUs	unit_id = 1..19, tagged unit_name:link_<n>
+Phases per unit	L1, L2, L3
+Outlets per phase	1..4 (per phase, per unit)
+External sensors	Up to 10 (temp/humidity)
+IO channels	Digital input/output
+Status profiles	Phase, inlet, outlet, PDU-level alarms & health
 
-All generated metrics are tagged with things like:
+Each metric is automatically tagged using:
 
-- `unit_id`, `unit_name`
-- `measurement_level` (`inlet`, `phase`, `outlet`, `io`, `external_sensor`)
-- `phase`, `outlet`, `sensor_index`, `channel` (where applicable)
+unit_id, unit_name, phase, outlet, sensor_index, channel,
+measurement_level (inlet, phase, outlet, io, external_sensor, status)
+## How to Control Number of Link PDUs
 
----
+All generator scripts use this pattern:
+
+units = range(0, 20)  # 0 = Main PDU, 1..19 = Link PDUs
+
+
+To reduce number of Link PDUs, simply edit the range: in each generate_*.py file
+
+**Desired Setup	Use**
+Only main PDU (no link units)	units = range(0, 1)
+Main + 3 Link PDUs	units = range(0, 4)
+Main + 10 Link PDUs	units = range(0, 11)
 
 ## Files
 
 ### Generators
 
 - `generate_inlet_profile.py`  
-  Generates `bachmann_inlet.yaml` – inlet-level electrical metrics:
+  Generates `bachmann_inlet_metrics.yaml` – inlet-level electrical metrics:
   - `bacCurrentMain`, `bacActivePowerLink3`, …  
-  - Metric types: gauges + counters (energy).
+  - Metric types: gauges.
 
 - `generate_phase_profile.py`  
-  Generates `bachmann_phase.yaml` – per-phase metrics per unit:
+  Generates `bachmann_phase_metrics.yaml` – per-phase metrics per unit:
   - `bacVoltageMainL1`, `bacActivePowerLink5L3`, …
 
 - `generate_outlet_per_phase_profile.py`  
-  Generates `bachmann_outlet.yaml` – per-phase, per-outlet metrics:
+  Generates `bachmann_outlet_metrics.yaml` – per-outlet metrics in a phase:
   - `bacCurrentMainL1Outlet0`, `bacActiveEnergyLink1L3Outlet3`, …
 
 - `generate_io_profile_metrics.py`  
-  Generates `bachmann_io.yaml` – IO channel metrics:
+  Generates `bachmann_io_metrics.yaml` – IO channel metrics:
   - `ioOutputChannel1Main`, `ioInputChannel3Unit4`, …
 
 - `generate_sensor_profile.py`  
-  Generates `bachmann_sensors.yaml` – temperature + humidity from up to 10 sensors per unit:
+  Generates `bachmann_sensors_metrics.yaml` – temperature + humidity from up to 10 sensors per unit:
   - `bacTemperatureMainSensor0`, `bacHumidityLink1Sensor0`, …
 
 Each script prints a **complete Datadog SNMP profile** to stdout:
@@ -74,16 +91,37 @@ Each script prints a **complete Datadog SNMP profile** to stdout:
 
 ### Orchestrator
 
-- `main.py`  
-  Small helper that:
-  1. Runs all generator scripts.
-  2. Writes the individual profiles:
-     - `bachmann_inlet.yaml`
-     - `bachmann_phase.yaml`
-     - `bachmann_outlet.yaml`
-     - `bachmann_io.yaml`
-     - `bachmann_env.yaml`
-  3. Writes the parent profile `bachmann_pdu.yaml` that `extends` all of them.
+main.py will:
+
+Run all generators from the GENERATORS list:
+
+GENERATORS = [
+("generate_inlet_profile.py", "bachmann_inlet_metrics.yaml"),
+    ("generate_phase_profile.py", "bachmann_phase_metrics.yaml"),
+    ("generate_outlet_per_phase_profile.py", "bachmann_outlet_metrics.yaml"),
+    ("generate_io_profile_metrics.py", "bachmann_io_metrics.yaml"),
+    ("generate_sensor_profile.py", "bachmann_sensors_metrics.yaml"),
+    ("generate_phase_status_profile.py", "bachmann_phase_status.yaml"),
+    ("generate_outlet_status_profile.py", "bachmann_outlet_status.yaml"),
+    ("generate_inlet_status_profile.py", "bachmann_inlet_status.yaml"),
+    ("generate_global_status_profile.py", "bachmann_global_status.yaml"),
+]
+
+
+Generate all .yaml files.
+
+Create the parent profile bachmann_pdu.yaml using extends:
+
+extends:
+  - bachmann_inlet_metrics
+  - bachmann_phase_metrics
+  - bachmann_outlet_metrics
+  - bachmann_io_metrics
+  - bachmann_sensors_metrics
+  - bachmann_phase_status
+  - bachmann_outlet_status
+  - bachmann_inlet_status
+  - bachmann_global_status
 
 ---
 
