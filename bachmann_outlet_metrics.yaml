@@ -140,7 +140,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -157,7 +157,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -174,7 +174,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -191,7 +191,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -327,7 +327,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -344,7 +344,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -361,7 +361,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -378,7 +378,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -514,7 +514,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -531,7 +531,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -548,7 +548,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -565,7 +565,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -701,7 +701,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -718,7 +718,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -735,7 +735,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -752,7 +752,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -888,7 +888,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -905,7 +905,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -922,7 +922,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -939,7 +939,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1075,7 +1075,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1092,7 +1092,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1109,7 +1109,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1126,7 +1126,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1262,7 +1262,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1279,7 +1279,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1296,7 +1296,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1313,7 +1313,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1449,7 +1449,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1466,7 +1466,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1483,7 +1483,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1500,7 +1500,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1636,7 +1636,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1653,7 +1653,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1670,7 +1670,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1687,7 +1687,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1823,7 +1823,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1840,7 +1840,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1857,7 +1857,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1874,7 +1874,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2010,7 +2010,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2027,7 +2027,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2044,7 +2044,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2061,7 +2061,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2197,7 +2197,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2214,7 +2214,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2231,7 +2231,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2248,7 +2248,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2384,7 +2384,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2401,7 +2401,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2418,7 +2418,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2435,7 +2435,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2571,7 +2571,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2588,7 +2588,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2605,7 +2605,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2622,7 +2622,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2758,7 +2758,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2775,7 +2775,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2792,7 +2792,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2809,7 +2809,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2945,7 +2945,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2962,7 +2962,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2979,7 +2979,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2996,7 +2996,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3132,7 +3132,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3149,7 +3149,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3166,7 +3166,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3183,7 +3183,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3319,7 +3319,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3336,7 +3336,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3353,7 +3353,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3370,7 +3370,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3506,7 +3506,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3523,7 +3523,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3540,7 +3540,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3557,7 +3557,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3693,7 +3693,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3710,7 +3710,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3727,7 +3727,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3744,7 +3744,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3880,7 +3880,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3897,7 +3897,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3914,7 +3914,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3931,7 +3931,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4067,7 +4067,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4084,7 +4084,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4101,7 +4101,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4118,7 +4118,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4254,7 +4254,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4271,7 +4271,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4288,7 +4288,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4305,7 +4305,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4441,7 +4441,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4458,7 +4458,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4475,7 +4475,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4492,7 +4492,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4628,7 +4628,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4645,7 +4645,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4662,7 +4662,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4679,7 +4679,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4815,7 +4815,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4832,7 +4832,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4849,7 +4849,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -4866,7 +4866,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5002,7 +5002,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5019,7 +5019,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5036,7 +5036,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5053,7 +5053,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5189,7 +5189,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5206,7 +5206,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5223,7 +5223,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5240,7 +5240,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5376,7 +5376,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5393,7 +5393,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5410,7 +5410,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5427,7 +5427,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5563,7 +5563,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5580,7 +5580,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5597,7 +5597,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5614,7 +5614,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5750,7 +5750,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5767,7 +5767,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5784,7 +5784,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5801,7 +5801,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5937,7 +5937,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5954,7 +5954,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5971,7 +5971,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -5988,7 +5988,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6124,7 +6124,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6141,7 +6141,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6158,7 +6158,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6175,7 +6175,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6311,7 +6311,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6328,7 +6328,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6345,7 +6345,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6362,7 +6362,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6498,7 +6498,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6515,7 +6515,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6532,7 +6532,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6549,7 +6549,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6685,7 +6685,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6702,7 +6702,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6719,7 +6719,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6736,7 +6736,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6872,7 +6872,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6889,7 +6889,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6906,7 +6906,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -6923,7 +6923,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7059,7 +7059,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7076,7 +7076,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7093,7 +7093,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7110,7 +7110,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7246,7 +7246,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7263,7 +7263,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7280,7 +7280,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7297,7 +7297,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7433,7 +7433,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7450,7 +7450,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7467,7 +7467,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7484,7 +7484,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7620,7 +7620,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7637,7 +7637,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7654,7 +7654,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7671,7 +7671,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7807,7 +7807,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7824,7 +7824,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7841,7 +7841,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7858,7 +7858,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -7994,7 +7994,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8011,7 +8011,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8028,7 +8028,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8045,7 +8045,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8181,7 +8181,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8198,7 +8198,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8215,7 +8215,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8232,7 +8232,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8368,7 +8368,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8385,7 +8385,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8402,7 +8402,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8419,7 +8419,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8555,7 +8555,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8572,7 +8572,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8589,7 +8589,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8606,7 +8606,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8742,7 +8742,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8759,7 +8759,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8776,7 +8776,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8793,7 +8793,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8929,7 +8929,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8946,7 +8946,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8963,7 +8963,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -8980,7 +8980,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9116,7 +9116,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9133,7 +9133,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9150,7 +9150,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9167,7 +9167,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9303,7 +9303,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9320,7 +9320,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9337,7 +9337,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9354,7 +9354,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9490,7 +9490,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9507,7 +9507,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9524,7 +9524,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9541,7 +9541,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9677,7 +9677,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9694,7 +9694,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9711,7 +9711,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9728,7 +9728,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9864,7 +9864,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9881,7 +9881,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9898,7 +9898,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -9915,7 +9915,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10051,7 +10051,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10068,7 +10068,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10085,7 +10085,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10102,7 +10102,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10238,7 +10238,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10255,7 +10255,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10272,7 +10272,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10289,7 +10289,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10425,7 +10425,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10442,7 +10442,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10459,7 +10459,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10476,7 +10476,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10612,7 +10612,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10629,7 +10629,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10646,7 +10646,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10663,7 +10663,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10799,7 +10799,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10816,7 +10816,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10833,7 +10833,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10850,7 +10850,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -10986,7 +10986,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11003,7 +11003,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11020,7 +11020,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11037,7 +11037,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11173,7 +11173,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11190,7 +11190,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11207,7 +11207,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11224,7 +11224,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11360,7 +11360,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11377,7 +11377,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11394,7 +11394,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11411,7 +11411,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11547,7 +11547,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11564,7 +11564,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11581,7 +11581,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11598,7 +11598,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11734,7 +11734,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11751,7 +11751,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11768,7 +11768,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11785,7 +11785,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11921,7 +11921,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11938,7 +11938,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11955,7 +11955,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -11972,7 +11972,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12108,7 +12108,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12125,7 +12125,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12142,7 +12142,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12159,7 +12159,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12295,7 +12295,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12312,7 +12312,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12329,7 +12329,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12346,7 +12346,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12482,7 +12482,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12499,7 +12499,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12516,7 +12516,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12533,7 +12533,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12669,7 +12669,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12686,7 +12686,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12703,7 +12703,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12720,7 +12720,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12856,7 +12856,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12873,7 +12873,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12890,7 +12890,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -12907,7 +12907,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13043,7 +13043,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13060,7 +13060,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13077,7 +13077,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13094,7 +13094,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13230,7 +13230,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13247,7 +13247,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13264,7 +13264,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13281,7 +13281,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13417,7 +13417,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13434,7 +13434,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13451,7 +13451,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13468,7 +13468,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13604,7 +13604,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13621,7 +13621,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13638,7 +13638,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13655,7 +13655,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13791,7 +13791,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13808,7 +13808,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13825,7 +13825,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13842,7 +13842,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13978,7 +13978,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -13995,7 +13995,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14012,7 +14012,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14029,7 +14029,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14165,7 +14165,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14182,7 +14182,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14199,7 +14199,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14216,7 +14216,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14352,7 +14352,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14369,7 +14369,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14386,7 +14386,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14403,7 +14403,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14539,7 +14539,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14556,7 +14556,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14573,7 +14573,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14590,7 +14590,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14726,7 +14726,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14743,7 +14743,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14760,7 +14760,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14777,7 +14777,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14913,7 +14913,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14930,7 +14930,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14947,7 +14947,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -14964,7 +14964,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15100,7 +15100,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15117,7 +15117,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15134,7 +15134,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15151,7 +15151,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15287,7 +15287,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15304,7 +15304,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15321,7 +15321,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15338,7 +15338,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15474,7 +15474,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15491,7 +15491,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15508,7 +15508,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15525,7 +15525,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15661,7 +15661,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15678,7 +15678,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15695,7 +15695,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15712,7 +15712,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15848,7 +15848,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15865,7 +15865,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15882,7 +15882,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -15899,7 +15899,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16035,7 +16035,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16052,7 +16052,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16069,7 +16069,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16086,7 +16086,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16222,7 +16222,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16239,7 +16239,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16256,7 +16256,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16273,7 +16273,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16409,7 +16409,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16426,7 +16426,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16443,7 +16443,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16460,7 +16460,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16596,7 +16596,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16613,7 +16613,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16630,7 +16630,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16647,7 +16647,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16783,7 +16783,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16800,7 +16800,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16817,7 +16817,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16834,7 +16834,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16970,7 +16970,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -16987,7 +16987,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17004,7 +17004,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17021,7 +17021,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17157,7 +17157,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17174,7 +17174,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17191,7 +17191,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17208,7 +17208,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17344,7 +17344,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17361,7 +17361,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17378,7 +17378,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17395,7 +17395,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17531,7 +17531,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17548,7 +17548,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17565,7 +17565,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17582,7 +17582,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17718,7 +17718,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17735,7 +17735,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17752,7 +17752,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17769,7 +17769,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17905,7 +17905,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17922,7 +17922,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17939,7 +17939,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -17956,7 +17956,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18092,7 +18092,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18109,7 +18109,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18126,7 +18126,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18143,7 +18143,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18279,7 +18279,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18296,7 +18296,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18313,7 +18313,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18330,7 +18330,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18466,7 +18466,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18483,7 +18483,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18500,7 +18500,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18517,7 +18517,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18653,7 +18653,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18670,7 +18670,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18687,7 +18687,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18704,7 +18704,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18840,7 +18840,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18857,7 +18857,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18874,7 +18874,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -18891,7 +18891,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19027,7 +19027,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19044,7 +19044,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19061,7 +19061,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19078,7 +19078,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19214,7 +19214,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19231,7 +19231,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19248,7 +19248,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19265,7 +19265,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19401,7 +19401,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19418,7 +19418,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19435,7 +19435,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19452,7 +19452,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19588,7 +19588,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19605,7 +19605,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19622,7 +19622,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19639,7 +19639,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19775,7 +19775,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19792,7 +19792,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19809,7 +19809,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19826,7 +19826,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19962,7 +19962,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19979,7 +19979,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -19996,7 +19996,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20013,7 +20013,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20149,7 +20149,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20166,7 +20166,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20183,7 +20183,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20200,7 +20200,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20336,7 +20336,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20353,7 +20353,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20370,7 +20370,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20387,7 +20387,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20523,7 +20523,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20540,7 +20540,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20557,7 +20557,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20574,7 +20574,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20710,7 +20710,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20727,7 +20727,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20744,7 +20744,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20761,7 +20761,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20897,7 +20897,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20914,7 +20914,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20931,7 +20931,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -20948,7 +20948,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21084,7 +21084,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21101,7 +21101,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21118,7 +21118,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21135,7 +21135,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21271,7 +21271,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21288,7 +21288,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21305,7 +21305,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21322,7 +21322,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21458,7 +21458,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21475,7 +21475,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21492,7 +21492,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21509,7 +21509,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21645,7 +21645,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21662,7 +21662,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21679,7 +21679,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21696,7 +21696,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21832,7 +21832,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21849,7 +21849,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21866,7 +21866,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -21883,7 +21883,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22019,7 +22019,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22036,7 +22036,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22053,7 +22053,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22070,7 +22070,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22206,7 +22206,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22223,7 +22223,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22240,7 +22240,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22257,7 +22257,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22393,7 +22393,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22410,7 +22410,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22427,7 +22427,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22444,7 +22444,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22580,7 +22580,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22597,7 +22597,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22614,7 +22614,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22631,7 +22631,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22767,7 +22767,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22784,7 +22784,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22801,7 +22801,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22818,7 +22818,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22954,7 +22954,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22971,7 +22971,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -22988,7 +22988,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23005,7 +23005,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23141,7 +23141,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23158,7 +23158,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23175,7 +23175,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23192,7 +23192,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23328,7 +23328,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23345,7 +23345,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23362,7 +23362,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23379,7 +23379,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23515,7 +23515,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23532,7 +23532,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23549,7 +23549,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23566,7 +23566,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23702,7 +23702,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23719,7 +23719,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23736,7 +23736,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23753,7 +23753,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23889,7 +23889,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23906,7 +23906,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23923,7 +23923,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -23940,7 +23940,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24076,7 +24076,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24093,7 +24093,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24110,7 +24110,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24127,7 +24127,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24263,7 +24263,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24280,7 +24280,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24297,7 +24297,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24314,7 +24314,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24450,7 +24450,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24467,7 +24467,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24484,7 +24484,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24501,7 +24501,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24637,7 +24637,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24654,7 +24654,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24671,7 +24671,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24688,7 +24688,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24824,7 +24824,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24841,7 +24841,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24858,7 +24858,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -24875,7 +24875,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25011,7 +25011,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25028,7 +25028,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25045,7 +25045,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25062,7 +25062,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25198,7 +25198,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25215,7 +25215,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25232,7 +25232,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25249,7 +25249,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25385,7 +25385,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25402,7 +25402,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25419,7 +25419,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25436,7 +25436,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25572,7 +25572,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25589,7 +25589,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25606,7 +25606,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25623,7 +25623,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25759,7 +25759,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25776,7 +25776,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25793,7 +25793,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25810,7 +25810,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25946,7 +25946,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25963,7 +25963,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25980,7 +25980,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -25997,7 +25997,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26133,7 +26133,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26150,7 +26150,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26167,7 +26167,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26184,7 +26184,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26320,7 +26320,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26337,7 +26337,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26354,7 +26354,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26371,7 +26371,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26507,7 +26507,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26524,7 +26524,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26541,7 +26541,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26558,7 +26558,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26694,7 +26694,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26711,7 +26711,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26728,7 +26728,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26745,7 +26745,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26881,7 +26881,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26898,7 +26898,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26915,7 +26915,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -26932,7 +26932,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27068,7 +27068,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27085,7 +27085,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27102,7 +27102,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27119,7 +27119,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27255,7 +27255,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27272,7 +27272,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27289,7 +27289,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27306,7 +27306,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27442,7 +27442,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27459,7 +27459,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27476,7 +27476,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27493,7 +27493,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27629,7 +27629,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27646,7 +27646,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27663,7 +27663,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27680,7 +27680,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27816,7 +27816,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27833,7 +27833,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27850,7 +27850,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -27867,7 +27867,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28003,7 +28003,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28020,7 +28020,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28037,7 +28037,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28054,7 +28054,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28190,7 +28190,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28207,7 +28207,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28224,7 +28224,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28241,7 +28241,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28377,7 +28377,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28394,7 +28394,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28411,7 +28411,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28428,7 +28428,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28564,7 +28564,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28581,7 +28581,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28598,7 +28598,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28615,7 +28615,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28751,7 +28751,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28768,7 +28768,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28785,7 +28785,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28802,7 +28802,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28938,7 +28938,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28955,7 +28955,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28972,7 +28972,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -28989,7 +28989,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29125,7 +29125,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29142,7 +29142,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29159,7 +29159,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29176,7 +29176,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29312,7 +29312,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29329,7 +29329,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29346,7 +29346,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29363,7 +29363,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29499,7 +29499,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29516,7 +29516,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29533,7 +29533,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29550,7 +29550,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29686,7 +29686,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29703,7 +29703,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29720,7 +29720,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29737,7 +29737,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29873,7 +29873,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29890,7 +29890,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29907,7 +29907,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -29924,7 +29924,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30060,7 +30060,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30077,7 +30077,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30094,7 +30094,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30111,7 +30111,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30247,7 +30247,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30264,7 +30264,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30281,7 +30281,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30298,7 +30298,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30434,7 +30434,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30451,7 +30451,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30468,7 +30468,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30485,7 +30485,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30621,7 +30621,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30638,7 +30638,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30655,7 +30655,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30672,7 +30672,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30808,7 +30808,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30825,7 +30825,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30842,7 +30842,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30859,7 +30859,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -30995,7 +30995,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31012,7 +31012,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31029,7 +31029,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31046,7 +31046,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31182,7 +31182,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31199,7 +31199,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31216,7 +31216,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31233,7 +31233,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31369,7 +31369,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31386,7 +31386,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31403,7 +31403,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31420,7 +31420,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31556,7 +31556,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31573,7 +31573,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31590,7 +31590,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31607,7 +31607,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31743,7 +31743,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31760,7 +31760,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31777,7 +31777,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31794,7 +31794,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31930,7 +31930,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31947,7 +31947,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31964,7 +31964,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -31981,7 +31981,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32117,7 +32117,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32134,7 +32134,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32151,7 +32151,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32168,7 +32168,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32304,7 +32304,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32321,7 +32321,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32338,7 +32338,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32355,7 +32355,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32491,7 +32491,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32508,7 +32508,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32525,7 +32525,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32542,7 +32542,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32678,7 +32678,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32695,7 +32695,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32712,7 +32712,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32729,7 +32729,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32865,7 +32865,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32882,7 +32882,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32899,7 +32899,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -32916,7 +32916,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33052,7 +33052,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33069,7 +33069,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33086,7 +33086,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33103,7 +33103,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33239,7 +33239,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33256,7 +33256,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33273,7 +33273,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33290,7 +33290,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33426,7 +33426,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33443,7 +33443,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33460,7 +33460,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33477,7 +33477,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33613,7 +33613,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33630,7 +33630,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33647,7 +33647,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33664,7 +33664,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33800,7 +33800,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33817,7 +33817,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33834,7 +33834,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33851,7 +33851,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -33987,7 +33987,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34004,7 +34004,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34021,7 +34021,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34038,7 +34038,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34174,7 +34174,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34191,7 +34191,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34208,7 +34208,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34225,7 +34225,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34361,7 +34361,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34378,7 +34378,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34395,7 +34395,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34412,7 +34412,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34548,7 +34548,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34565,7 +34565,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34582,7 +34582,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34599,7 +34599,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34735,7 +34735,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34752,7 +34752,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34769,7 +34769,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34786,7 +34786,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34922,7 +34922,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34939,7 +34939,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34956,7 +34956,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -34973,7 +34973,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35109,7 +35109,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35126,7 +35126,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35143,7 +35143,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35160,7 +35160,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35296,7 +35296,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35313,7 +35313,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35330,7 +35330,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35347,7 +35347,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35483,7 +35483,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35500,7 +35500,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35517,7 +35517,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35534,7 +35534,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35670,7 +35670,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35687,7 +35687,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35704,7 +35704,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35721,7 +35721,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35857,7 +35857,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35874,7 +35874,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35891,7 +35891,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -35908,7 +35908,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36044,7 +36044,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36061,7 +36061,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36078,7 +36078,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36095,7 +36095,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36231,7 +36231,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36248,7 +36248,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36265,7 +36265,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36282,7 +36282,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36418,7 +36418,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36435,7 +36435,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36452,7 +36452,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36469,7 +36469,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36605,7 +36605,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36622,7 +36622,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36639,7 +36639,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36656,7 +36656,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36792,7 +36792,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36809,7 +36809,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36826,7 +36826,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36843,7 +36843,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36979,7 +36979,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -36996,7 +36996,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37013,7 +37013,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37030,7 +37030,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37166,7 +37166,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37183,7 +37183,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37200,7 +37200,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37217,7 +37217,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37353,7 +37353,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37370,7 +37370,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37387,7 +37387,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37404,7 +37404,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37540,7 +37540,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37557,7 +37557,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37574,7 +37574,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37591,7 +37591,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37727,7 +37727,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37744,7 +37744,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37761,7 +37761,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37778,7 +37778,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37914,7 +37914,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37931,7 +37931,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37948,7 +37948,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -37965,7 +37965,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38101,7 +38101,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38118,7 +38118,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38135,7 +38135,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38152,7 +38152,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38288,7 +38288,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38305,7 +38305,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38322,7 +38322,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38339,7 +38339,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38475,7 +38475,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38492,7 +38492,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38509,7 +38509,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38526,7 +38526,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38662,7 +38662,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38679,7 +38679,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38696,7 +38696,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38713,7 +38713,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38849,7 +38849,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38866,7 +38866,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38883,7 +38883,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -38900,7 +38900,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39036,7 +39036,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39053,7 +39053,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39070,7 +39070,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39087,7 +39087,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39223,7 +39223,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39240,7 +39240,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39257,7 +39257,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39274,7 +39274,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39410,7 +39410,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39427,7 +39427,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39444,7 +39444,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39461,7 +39461,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39597,7 +39597,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39614,7 +39614,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39631,7 +39631,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39648,7 +39648,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39784,7 +39784,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39801,7 +39801,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39818,7 +39818,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39835,7 +39835,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39971,7 +39971,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -39988,7 +39988,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40005,7 +40005,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40022,7 +40022,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40158,7 +40158,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40175,7 +40175,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40192,7 +40192,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40209,7 +40209,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40345,7 +40345,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40362,7 +40362,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40379,7 +40379,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40396,7 +40396,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40532,7 +40532,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40549,7 +40549,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40566,7 +40566,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40583,7 +40583,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40719,7 +40719,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40736,7 +40736,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40753,7 +40753,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40770,7 +40770,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40906,7 +40906,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40923,7 +40923,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40940,7 +40940,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -40957,7 +40957,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41093,7 +41093,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41110,7 +41110,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41127,7 +41127,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41144,7 +41144,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41280,7 +41280,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41297,7 +41297,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41314,7 +41314,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41331,7 +41331,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41467,7 +41467,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41484,7 +41484,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41501,7 +41501,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41518,7 +41518,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41654,7 +41654,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41671,7 +41671,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41688,7 +41688,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41705,7 +41705,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41841,7 +41841,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41858,7 +41858,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41875,7 +41875,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -41892,7 +41892,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42028,7 +42028,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42045,7 +42045,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42062,7 +42062,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42079,7 +42079,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42215,7 +42215,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42232,7 +42232,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42249,7 +42249,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42266,7 +42266,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42402,7 +42402,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42419,7 +42419,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42436,7 +42436,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42453,7 +42453,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42589,7 +42589,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42606,7 +42606,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42623,7 +42623,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42640,7 +42640,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42776,7 +42776,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42793,7 +42793,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42810,7 +42810,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42827,7 +42827,7 @@ metrics:
         value: "1"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42963,7 +42963,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42980,7 +42980,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -42997,7 +42997,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43014,7 +43014,7 @@ metrics:
         value: "2"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43150,7 +43150,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43167,7 +43167,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43184,7 +43184,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43201,7 +43201,7 @@ metrics:
         value: "3"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43337,7 +43337,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43354,7 +43354,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43371,7 +43371,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43388,7 +43388,7 @@ metrics:
         value: "4"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43524,7 +43524,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43541,7 +43541,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43558,7 +43558,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43575,7 +43575,7 @@ metrics:
         value: "5"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43711,7 +43711,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43728,7 +43728,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43745,7 +43745,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43762,7 +43762,7 @@ metrics:
         value: "6"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43898,7 +43898,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43915,7 +43915,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43932,7 +43932,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -43949,7 +43949,7 @@ metrics:
         value: "7"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44085,7 +44085,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44102,7 +44102,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44119,7 +44119,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44136,7 +44136,7 @@ metrics:
         value: "8"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44272,7 +44272,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44289,7 +44289,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44306,7 +44306,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44323,7 +44323,7 @@ metrics:
         value: "9"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44459,7 +44459,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44476,7 +44476,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44493,7 +44493,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44510,7 +44510,7 @@ metrics:
         value: "10"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44646,7 +44646,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44663,7 +44663,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44680,7 +44680,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44697,7 +44697,7 @@ metrics:
         value: "11"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44833,7 +44833,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44850,7 +44850,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44867,7 +44867,7 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -44884,5 +44884,5 @@ metrics:
         value: "12"
       - tag: measurement_level
         value: "outlet"
-    metric_type: gauge
+    metric_type: counter
 

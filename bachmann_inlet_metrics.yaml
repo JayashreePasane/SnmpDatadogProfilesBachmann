@@ -134,7 +134,7 @@ metrics:
         value: "main"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -147,7 +147,7 @@ metrics:
         value: "main"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -160,7 +160,7 @@ metrics:
         value: "main"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -173,7 +173,7 @@ metrics:
         value: "main"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -303,7 +303,7 @@ metrics:
         value: "link_1"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -316,7 +316,7 @@ metrics:
         value: "link_1"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -329,7 +329,7 @@ metrics:
         value: "link_1"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -342,7 +342,7 @@ metrics:
         value: "link_1"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -472,7 +472,7 @@ metrics:
         value: "link_2"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -485,7 +485,7 @@ metrics:
         value: "link_2"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -498,7 +498,7 @@ metrics:
         value: "link_2"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -511,7 +511,7 @@ metrics:
         value: "link_2"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -641,7 +641,7 @@ metrics:
         value: "link_3"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -654,7 +654,7 @@ metrics:
         value: "link_3"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -667,7 +667,7 @@ metrics:
         value: "link_3"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -680,7 +680,7 @@ metrics:
         value: "link_3"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -810,7 +810,7 @@ metrics:
         value: "link_4"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -823,7 +823,7 @@ metrics:
         value: "link_4"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -836,7 +836,7 @@ metrics:
         value: "link_4"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -849,7 +849,7 @@ metrics:
         value: "link_4"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -979,7 +979,7 @@ metrics:
         value: "link_5"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -992,7 +992,7 @@ metrics:
         value: "link_5"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1005,7 +1005,7 @@ metrics:
         value: "link_5"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1018,7 +1018,7 @@ metrics:
         value: "link_5"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1148,7 +1148,7 @@ metrics:
         value: "link_6"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1161,7 +1161,7 @@ metrics:
         value: "link_6"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1174,7 +1174,7 @@ metrics:
         value: "link_6"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1187,7 +1187,7 @@ metrics:
         value: "link_6"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1317,7 +1317,7 @@ metrics:
         value: "link_7"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1330,7 +1330,7 @@ metrics:
         value: "link_7"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1343,7 +1343,7 @@ metrics:
         value: "link_7"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1356,7 +1356,7 @@ metrics:
         value: "link_7"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1486,7 +1486,7 @@ metrics:
         value: "link_8"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1499,7 +1499,7 @@ metrics:
         value: "link_8"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1512,7 +1512,7 @@ metrics:
         value: "link_8"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1525,7 +1525,7 @@ metrics:
         value: "link_8"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1655,7 +1655,7 @@ metrics:
         value: "link_9"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1668,7 +1668,7 @@ metrics:
         value: "link_9"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1681,7 +1681,7 @@ metrics:
         value: "link_9"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1694,7 +1694,7 @@ metrics:
         value: "link_9"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1824,7 +1824,7 @@ metrics:
         value: "link_10"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1837,7 +1837,7 @@ metrics:
         value: "link_10"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1850,7 +1850,7 @@ metrics:
         value: "link_10"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1863,7 +1863,7 @@ metrics:
         value: "link_10"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -1993,7 +1993,7 @@ metrics:
         value: "link_11"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2006,7 +2006,7 @@ metrics:
         value: "link_11"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2019,7 +2019,7 @@ metrics:
         value: "link_11"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2032,7 +2032,7 @@ metrics:
         value: "link_11"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2162,7 +2162,7 @@ metrics:
         value: "link_12"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2175,7 +2175,7 @@ metrics:
         value: "link_12"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2188,7 +2188,7 @@ metrics:
         value: "link_12"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2201,7 +2201,7 @@ metrics:
         value: "link_12"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2331,7 +2331,7 @@ metrics:
         value: "link_13"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2344,7 +2344,7 @@ metrics:
         value: "link_13"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2357,7 +2357,7 @@ metrics:
         value: "link_13"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2370,7 +2370,7 @@ metrics:
         value: "link_13"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2500,7 +2500,7 @@ metrics:
         value: "link_14"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2513,7 +2513,7 @@ metrics:
         value: "link_14"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2526,7 +2526,7 @@ metrics:
         value: "link_14"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2539,7 +2539,7 @@ metrics:
         value: "link_14"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2669,7 +2669,7 @@ metrics:
         value: "link_15"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2682,7 +2682,7 @@ metrics:
         value: "link_15"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2695,7 +2695,7 @@ metrics:
         value: "link_15"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2708,7 +2708,7 @@ metrics:
         value: "link_15"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2838,7 +2838,7 @@ metrics:
         value: "link_16"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2851,7 +2851,7 @@ metrics:
         value: "link_16"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2864,7 +2864,7 @@ metrics:
         value: "link_16"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -2877,7 +2877,7 @@ metrics:
         value: "link_16"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3007,7 +3007,7 @@ metrics:
         value: "link_17"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3020,7 +3020,7 @@ metrics:
         value: "link_17"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3033,7 +3033,7 @@ metrics:
         value: "link_17"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3046,7 +3046,7 @@ metrics:
         value: "link_17"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3176,7 +3176,7 @@ metrics:
         value: "link_18"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3189,7 +3189,7 @@ metrics:
         value: "link_18"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3202,7 +3202,7 @@ metrics:
         value: "link_18"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3215,7 +3215,7 @@ metrics:
         value: "link_18"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3345,7 +3345,7 @@ metrics:
         value: "link_19"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3358,7 +3358,7 @@ metrics:
         value: "link_19"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3371,7 +3371,7 @@ metrics:
         value: "link_19"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 
   - MIB: BACHMANN-BLUENET-MIB
     symbol:
@@ -3384,5 +3384,5 @@ metrics:
         value: "link_19"
       - tag: measurement_level
         value: "inlet"
-    metric_type: gauge
+    metric_type: counter
 

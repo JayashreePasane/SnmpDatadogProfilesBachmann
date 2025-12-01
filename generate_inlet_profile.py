@@ -12,10 +12,10 @@ metrics = [
     ("22", "bacReactivePower",         "gauge"),
     ("23", "bacFrequency",             "gauge"),
     ("24", "bacPeakNeutralCurrent",    "gauge"),
-    ("32", "bacApparentEnergy",        "gauge"),
-    ("34", "bacReactiveEnergy",        "gauge"),
-    ("36", "bacActiveEnergy",          "gauge"),
-    ("38", "bacActiveEnergyUser",      "gauge"),
+    ("32", "bacApparentEnergy",        "counter"),
+    ("34", "bacReactiveEnergy",        "counter"),
+    ("36", "bacActiveEnergy",          "counter"),
+    ("38", "bacActiveEnergyUser",      "counter"),
 ]
 
 # ---- Header for Datadog profile ----

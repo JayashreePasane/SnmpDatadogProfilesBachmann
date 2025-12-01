@@ -164,7 +164,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -180,7 +180,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -196,7 +196,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -212,7 +212,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -372,7 +372,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -388,7 +388,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -404,7 +404,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -420,7 +420,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -580,7 +580,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -596,7 +596,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -612,7 +612,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -628,7 +628,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -788,7 +788,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -804,7 +804,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -820,7 +820,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -836,7 +836,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -996,7 +996,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1012,7 +1012,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1028,7 +1028,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1044,7 +1044,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1204,7 +1204,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1220,7 +1220,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1236,7 +1236,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1252,7 +1252,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1412,7 +1412,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1428,7 +1428,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1444,7 +1444,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1460,7 +1460,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1620,7 +1620,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1636,7 +1636,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1652,7 +1652,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1668,7 +1668,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1828,7 +1828,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1844,7 +1844,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1860,7 +1860,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -1876,7 +1876,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2036,7 +2036,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2052,7 +2052,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2068,7 +2068,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2084,7 +2084,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2244,7 +2244,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2260,7 +2260,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2276,7 +2276,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2292,7 +2292,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2452,7 +2452,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2468,7 +2468,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2484,7 +2484,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2500,7 +2500,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2660,7 +2660,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2676,7 +2676,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2692,7 +2692,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2708,7 +2708,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2868,7 +2868,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2884,7 +2884,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2900,7 +2900,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -2916,7 +2916,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3076,7 +3076,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3092,7 +3092,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3108,7 +3108,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3124,7 +3124,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3284,7 +3284,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3300,7 +3300,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3316,7 +3316,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3332,7 +3332,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3492,7 +3492,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3508,7 +3508,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3524,7 +3524,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3540,7 +3540,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3700,7 +3700,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3716,7 +3716,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3732,7 +3732,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3748,7 +3748,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3908,7 +3908,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3924,7 +3924,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3940,7 +3940,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -3956,7 +3956,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4116,7 +4116,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4132,7 +4132,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4148,7 +4148,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4164,7 +4164,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4324,7 +4324,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4340,7 +4340,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4356,7 +4356,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4372,7 +4372,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4532,7 +4532,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4548,7 +4548,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4564,7 +4564,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4580,7 +4580,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4740,7 +4740,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4756,7 +4756,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4772,7 +4772,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4788,7 +4788,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4948,7 +4948,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4964,7 +4964,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4980,7 +4980,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -4996,7 +4996,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5156,7 +5156,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5172,7 +5172,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5188,7 +5188,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5204,7 +5204,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5364,7 +5364,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5380,7 +5380,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5396,7 +5396,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5412,7 +5412,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5572,7 +5572,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5588,7 +5588,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5604,7 +5604,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5620,7 +5620,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5780,7 +5780,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5796,7 +5796,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5812,7 +5812,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5828,7 +5828,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -5988,7 +5988,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6004,7 +6004,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6020,7 +6020,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6036,7 +6036,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6196,7 +6196,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6212,7 +6212,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6228,7 +6228,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6244,7 +6244,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6404,7 +6404,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6420,7 +6420,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6436,7 +6436,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6452,7 +6452,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6612,7 +6612,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6628,7 +6628,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6644,7 +6644,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6660,7 +6660,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6820,7 +6820,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6836,7 +6836,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6852,7 +6852,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -6868,7 +6868,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7028,7 +7028,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7044,7 +7044,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7060,7 +7060,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7076,7 +7076,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7236,7 +7236,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7252,7 +7252,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7268,7 +7268,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7284,7 +7284,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7444,7 +7444,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7460,7 +7460,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7476,7 +7476,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7492,7 +7492,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7652,7 +7652,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7668,7 +7668,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7684,7 +7684,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7700,7 +7700,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7860,7 +7860,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7876,7 +7876,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7892,7 +7892,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -7908,7 +7908,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8068,7 +8068,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8084,7 +8084,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8100,7 +8100,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8116,7 +8116,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8276,7 +8276,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8292,7 +8292,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8308,7 +8308,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8324,7 +8324,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8484,7 +8484,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8500,7 +8500,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8516,7 +8516,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8532,7 +8532,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8692,7 +8692,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8708,7 +8708,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8724,7 +8724,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8740,7 +8740,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8900,7 +8900,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8916,7 +8916,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8932,7 +8932,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -8948,7 +8948,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9108,7 +9108,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9124,7 +9124,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9140,7 +9140,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9156,7 +9156,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9316,7 +9316,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9332,7 +9332,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9348,7 +9348,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9364,7 +9364,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9524,7 +9524,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9540,7 +9540,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9556,7 +9556,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9572,7 +9572,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9732,7 +9732,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9748,7 +9748,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9764,7 +9764,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9780,7 +9780,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9940,7 +9940,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9956,7 +9956,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9972,7 +9972,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -9988,7 +9988,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10148,7 +10148,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10164,7 +10164,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10180,7 +10180,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10196,7 +10196,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10356,7 +10356,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10372,7 +10372,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10388,7 +10388,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10404,7 +10404,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10564,7 +10564,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10580,7 +10580,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10596,7 +10596,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10612,7 +10612,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10772,7 +10772,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10788,7 +10788,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10804,7 +10804,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10820,7 +10820,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10980,7 +10980,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -10996,7 +10996,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11012,7 +11012,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11028,7 +11028,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11188,7 +11188,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11204,7 +11204,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11220,7 +11220,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11236,7 +11236,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11396,7 +11396,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11412,7 +11412,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11428,7 +11428,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11444,7 +11444,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11604,7 +11604,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11620,7 +11620,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11636,7 +11636,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11652,7 +11652,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11812,7 +11812,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11828,7 +11828,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11844,7 +11844,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -11860,7 +11860,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12020,7 +12020,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12036,7 +12036,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12052,7 +12052,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12068,7 +12068,7 @@ metrics:
         value: "L1"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12228,7 +12228,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12244,7 +12244,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12260,7 +12260,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12276,7 +12276,7 @@ metrics:
         value: "L2"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12436,7 +12436,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12452,7 +12452,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12468,7 +12468,7 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
 
   - MIB: BACHMANN-BLUENET-MIB
@@ -12484,5 +12484,5 @@ metrics:
         value: "L3"
       - tag: measurement_level
         value: "phase"
-    metric_type: gauge
+    metric_type: counter
 
