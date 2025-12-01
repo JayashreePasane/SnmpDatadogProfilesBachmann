@@ -21,10 +21,10 @@ metrics = [
     (19, "bacActivePower",         "gauge"),
     (20, "bacPeakActivePower",     "gauge"),
     (22, "bacReactivePower",       "gauge"),
-    (32, "bacApparentEnergy",      "counter"),
-    (34, "bacReactiveEnergy",      "counter"),
-    (36, "bacActiveEnergy",        "counter"),
-    (38, "bacActiveEnergyUser",    "counter"),
+    (32, "bacApparentEnergy",      "gauge"),
+    (34, "bacReactiveEnergy",      "gauge"),
+    (36, "bacActiveEnergy",        "gauge"),
+    (38, "bacActiveEnergyUser",    "gauge"),
 ]
 
 template = """

@@ -1,4 +1,4 @@
-# generate_inlet_profile_metrics.py
+# generate_inlet_profile.py
 
 units = range(0, 20)  # 0 = main, 1..19 are link PDUs
 
@@ -12,10 +12,10 @@ metrics = [
     ("22", "bacReactivePower",         "gauge"),
     ("23", "bacFrequency",             "gauge"),
     ("24", "bacPeakNeutralCurrent",    "gauge"),
-    ("32", "bacApparentEnergy",        "counter"),
-    ("34", "bacReactiveEnergy",        "counter"),
-    ("36", "bacActiveEnergy",          "counter"),
-    ("38", "bacActiveEnergyUser",      "counter"),
+    ("32", "bacApparentEnergy",        "gauge"),
+    ("34", "bacReactiveEnergy",        "gauge"),
+    ("36", "bacActiveEnergy",          "gauge"),
+    ("38", "bacActiveEnergyUser",      "gauge"),
 ]
 
 # ---- Header for Datadog profile ----

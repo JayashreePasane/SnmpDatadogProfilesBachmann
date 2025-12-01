@@ -1,0 +1,4088 @@
+sysobjectid: 1.3.6.1.4.1.31770.*
+
+metadata:
+  device:
+    vendor: "bachmann"
+    type: "pdu"
+
+metrics:
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.0.0.0.0.0
+      name: bacSocketStatusMainL1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.0.0.1.0.0
+      name: bacSocketStatusMainL1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.0.0.2.0.0
+      name: bacSocketStatusMainL1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.0.0.3.0.0
+      name: bacSocketStatusMainL1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.1.0.4.0.0
+      name: bacSocketStatusMainL2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.1.0.5.0.0
+      name: bacSocketStatusMainL2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.1.0.6.0.0
+      name: bacSocketStatusMainL2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.1.0.7.0.0
+      name: bacSocketStatusMainL2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.2.0.8.0.0
+      name: bacSocketStatusMainL3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.2.0.9.0.0
+      name: bacSocketStatusMainL3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.2.0.10.0.0
+      name: bacSocketStatusMainL3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.0.0.0.2.0.11.0.0
+      name: bacSocketStatusMainL3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "0"
+      - tag: unit_name
+        value: "main"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.0.0.0.0.0
+      name: bacSocketStatusLink1L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.0.0.1.0.0
+      name: bacSocketStatusLink1L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.0.0.2.0.0
+      name: bacSocketStatusLink1L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.0.0.3.0.0
+      name: bacSocketStatusLink1L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.1.0.4.0.0
+      name: bacSocketStatusLink1L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.1.0.5.0.0
+      name: bacSocketStatusLink1L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.1.0.6.0.0
+      name: bacSocketStatusLink1L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.1.0.7.0.0
+      name: bacSocketStatusLink1L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.2.0.8.0.0
+      name: bacSocketStatusLink1L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.2.0.9.0.0
+      name: bacSocketStatusLink1L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.2.0.10.0.0
+      name: bacSocketStatusLink1L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.1.0.0.2.0.11.0.0
+      name: bacSocketStatusLink1L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "1"
+      - tag: unit_name
+        value: "link_1"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.0.0.0.0.0
+      name: bacSocketStatusLink2L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.0.0.1.0.0
+      name: bacSocketStatusLink2L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.0.0.2.0.0
+      name: bacSocketStatusLink2L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.0.0.3.0.0
+      name: bacSocketStatusLink2L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.1.0.4.0.0
+      name: bacSocketStatusLink2L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.1.0.5.0.0
+      name: bacSocketStatusLink2L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.1.0.6.0.0
+      name: bacSocketStatusLink2L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.1.0.7.0.0
+      name: bacSocketStatusLink2L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.2.0.8.0.0
+      name: bacSocketStatusLink2L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.2.0.9.0.0
+      name: bacSocketStatusLink2L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.2.0.10.0.0
+      name: bacSocketStatusLink2L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.2.0.0.2.0.11.0.0
+      name: bacSocketStatusLink2L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "2"
+      - tag: unit_name
+        value: "link_2"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.0.0.0.0.0
+      name: bacSocketStatusLink3L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.0.0.1.0.0
+      name: bacSocketStatusLink3L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.0.0.2.0.0
+      name: bacSocketStatusLink3L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.0.0.3.0.0
+      name: bacSocketStatusLink3L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.1.0.4.0.0
+      name: bacSocketStatusLink3L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.1.0.5.0.0
+      name: bacSocketStatusLink3L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.1.0.6.0.0
+      name: bacSocketStatusLink3L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.1.0.7.0.0
+      name: bacSocketStatusLink3L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.2.0.8.0.0
+      name: bacSocketStatusLink3L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.2.0.9.0.0
+      name: bacSocketStatusLink3L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.2.0.10.0.0
+      name: bacSocketStatusLink3L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.3.0.0.2.0.11.0.0
+      name: bacSocketStatusLink3L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "3"
+      - tag: unit_name
+        value: "link_3"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.0.0.0.0.0
+      name: bacSocketStatusLink4L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.0.0.1.0.0
+      name: bacSocketStatusLink4L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.0.0.2.0.0
+      name: bacSocketStatusLink4L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.0.0.3.0.0
+      name: bacSocketStatusLink4L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.1.0.4.0.0
+      name: bacSocketStatusLink4L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.1.0.5.0.0
+      name: bacSocketStatusLink4L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.1.0.6.0.0
+      name: bacSocketStatusLink4L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.1.0.7.0.0
+      name: bacSocketStatusLink4L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.2.0.8.0.0
+      name: bacSocketStatusLink4L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.2.0.9.0.0
+      name: bacSocketStatusLink4L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.2.0.10.0.0
+      name: bacSocketStatusLink4L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.4.0.0.2.0.11.0.0
+      name: bacSocketStatusLink4L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "4"
+      - tag: unit_name
+        value: "link_4"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.0.0.0.0.0
+      name: bacSocketStatusLink5L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.0.0.1.0.0
+      name: bacSocketStatusLink5L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.0.0.2.0.0
+      name: bacSocketStatusLink5L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.0.0.3.0.0
+      name: bacSocketStatusLink5L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.1.0.4.0.0
+      name: bacSocketStatusLink5L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.1.0.5.0.0
+      name: bacSocketStatusLink5L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.1.0.6.0.0
+      name: bacSocketStatusLink5L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.1.0.7.0.0
+      name: bacSocketStatusLink5L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.2.0.8.0.0
+      name: bacSocketStatusLink5L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.2.0.9.0.0
+      name: bacSocketStatusLink5L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.2.0.10.0.0
+      name: bacSocketStatusLink5L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.5.0.0.2.0.11.0.0
+      name: bacSocketStatusLink5L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "5"
+      - tag: unit_name
+        value: "link_5"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.0.0.0.0.0
+      name: bacSocketStatusLink6L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.0.0.1.0.0
+      name: bacSocketStatusLink6L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.0.0.2.0.0
+      name: bacSocketStatusLink6L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.0.0.3.0.0
+      name: bacSocketStatusLink6L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.1.0.4.0.0
+      name: bacSocketStatusLink6L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.1.0.5.0.0
+      name: bacSocketStatusLink6L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.1.0.6.0.0
+      name: bacSocketStatusLink6L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.1.0.7.0.0
+      name: bacSocketStatusLink6L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.2.0.8.0.0
+      name: bacSocketStatusLink6L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.2.0.9.0.0
+      name: bacSocketStatusLink6L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.2.0.10.0.0
+      name: bacSocketStatusLink6L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.6.0.0.2.0.11.0.0
+      name: bacSocketStatusLink6L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "6"
+      - tag: unit_name
+        value: "link_6"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.0.0.0.0.0
+      name: bacSocketStatusLink7L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.0.0.1.0.0
+      name: bacSocketStatusLink7L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.0.0.2.0.0
+      name: bacSocketStatusLink7L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.0.0.3.0.0
+      name: bacSocketStatusLink7L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.1.0.4.0.0
+      name: bacSocketStatusLink7L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.1.0.5.0.0
+      name: bacSocketStatusLink7L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.1.0.6.0.0
+      name: bacSocketStatusLink7L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.1.0.7.0.0
+      name: bacSocketStatusLink7L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.2.0.8.0.0
+      name: bacSocketStatusLink7L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.2.0.9.0.0
+      name: bacSocketStatusLink7L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.2.0.10.0.0
+      name: bacSocketStatusLink7L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.7.0.0.2.0.11.0.0
+      name: bacSocketStatusLink7L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "7"
+      - tag: unit_name
+        value: "link_7"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.0.0.0.0.0
+      name: bacSocketStatusLink8L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.0.0.1.0.0
+      name: bacSocketStatusLink8L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.0.0.2.0.0
+      name: bacSocketStatusLink8L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.0.0.3.0.0
+      name: bacSocketStatusLink8L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.1.0.4.0.0
+      name: bacSocketStatusLink8L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.1.0.5.0.0
+      name: bacSocketStatusLink8L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.1.0.6.0.0
+      name: bacSocketStatusLink8L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.1.0.7.0.0
+      name: bacSocketStatusLink8L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.2.0.8.0.0
+      name: bacSocketStatusLink8L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.2.0.9.0.0
+      name: bacSocketStatusLink8L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.2.0.10.0.0
+      name: bacSocketStatusLink8L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.8.0.0.2.0.11.0.0
+      name: bacSocketStatusLink8L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "8"
+      - tag: unit_name
+        value: "link_8"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.0.0.0.0.0
+      name: bacSocketStatusLink9L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.0.0.1.0.0
+      name: bacSocketStatusLink9L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.0.0.2.0.0
+      name: bacSocketStatusLink9L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.0.0.3.0.0
+      name: bacSocketStatusLink9L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.1.0.4.0.0
+      name: bacSocketStatusLink9L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.1.0.5.0.0
+      name: bacSocketStatusLink9L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.1.0.6.0.0
+      name: bacSocketStatusLink9L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.1.0.7.0.0
+      name: bacSocketStatusLink9L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.2.0.8.0.0
+      name: bacSocketStatusLink9L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.2.0.9.0.0
+      name: bacSocketStatusLink9L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.2.0.10.0.0
+      name: bacSocketStatusLink9L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.9.0.0.2.0.11.0.0
+      name: bacSocketStatusLink9L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "9"
+      - tag: unit_name
+        value: "link_9"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.0.0.0.0.0
+      name: bacSocketStatusLink10L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.0.0.1.0.0
+      name: bacSocketStatusLink10L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.0.0.2.0.0
+      name: bacSocketStatusLink10L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.0.0.3.0.0
+      name: bacSocketStatusLink10L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.1.0.4.0.0
+      name: bacSocketStatusLink10L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.1.0.5.0.0
+      name: bacSocketStatusLink10L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.1.0.6.0.0
+      name: bacSocketStatusLink10L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.1.0.7.0.0
+      name: bacSocketStatusLink10L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.2.0.8.0.0
+      name: bacSocketStatusLink10L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.2.0.9.0.0
+      name: bacSocketStatusLink10L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.2.0.10.0.0
+      name: bacSocketStatusLink10L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.10.0.0.2.0.11.0.0
+      name: bacSocketStatusLink10L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "10"
+      - tag: unit_name
+        value: "link_10"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.0.0.0.0.0
+      name: bacSocketStatusLink11L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.0.0.1.0.0
+      name: bacSocketStatusLink11L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.0.0.2.0.0
+      name: bacSocketStatusLink11L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.0.0.3.0.0
+      name: bacSocketStatusLink11L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.1.0.4.0.0
+      name: bacSocketStatusLink11L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.1.0.5.0.0
+      name: bacSocketStatusLink11L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.1.0.6.0.0
+      name: bacSocketStatusLink11L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.1.0.7.0.0
+      name: bacSocketStatusLink11L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.2.0.8.0.0
+      name: bacSocketStatusLink11L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.2.0.9.0.0
+      name: bacSocketStatusLink11L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.2.0.10.0.0
+      name: bacSocketStatusLink11L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.11.0.0.2.0.11.0.0
+      name: bacSocketStatusLink11L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "11"
+      - tag: unit_name
+        value: "link_11"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.0.0.0.0.0
+      name: bacSocketStatusLink12L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.0.0.1.0.0
+      name: bacSocketStatusLink12L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.0.0.2.0.0
+      name: bacSocketStatusLink12L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.0.0.3.0.0
+      name: bacSocketStatusLink12L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.1.0.4.0.0
+      name: bacSocketStatusLink12L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.1.0.5.0.0
+      name: bacSocketStatusLink12L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.1.0.6.0.0
+      name: bacSocketStatusLink12L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.1.0.7.0.0
+      name: bacSocketStatusLink12L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.2.0.8.0.0
+      name: bacSocketStatusLink12L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.2.0.9.0.0
+      name: bacSocketStatusLink12L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.2.0.10.0.0
+      name: bacSocketStatusLink12L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.12.0.0.2.0.11.0.0
+      name: bacSocketStatusLink12L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "12"
+      - tag: unit_name
+        value: "link_12"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.0.0.0.0.0
+      name: bacSocketStatusLink13L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.0.0.1.0.0
+      name: bacSocketStatusLink13L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.0.0.2.0.0
+      name: bacSocketStatusLink13L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.0.0.3.0.0
+      name: bacSocketStatusLink13L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.1.0.4.0.0
+      name: bacSocketStatusLink13L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.1.0.5.0.0
+      name: bacSocketStatusLink13L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.1.0.6.0.0
+      name: bacSocketStatusLink13L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.1.0.7.0.0
+      name: bacSocketStatusLink13L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.2.0.8.0.0
+      name: bacSocketStatusLink13L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.2.0.9.0.0
+      name: bacSocketStatusLink13L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.2.0.10.0.0
+      name: bacSocketStatusLink13L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.13.0.0.2.0.11.0.0
+      name: bacSocketStatusLink13L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "13"
+      - tag: unit_name
+        value: "link_13"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.0.0.0.0.0
+      name: bacSocketStatusLink14L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.0.0.1.0.0
+      name: bacSocketStatusLink14L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.0.0.2.0.0
+      name: bacSocketStatusLink14L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.0.0.3.0.0
+      name: bacSocketStatusLink14L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.1.0.4.0.0
+      name: bacSocketStatusLink14L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.1.0.5.0.0
+      name: bacSocketStatusLink14L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.1.0.6.0.0
+      name: bacSocketStatusLink14L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.1.0.7.0.0
+      name: bacSocketStatusLink14L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.2.0.8.0.0
+      name: bacSocketStatusLink14L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.2.0.9.0.0
+      name: bacSocketStatusLink14L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.2.0.10.0.0
+      name: bacSocketStatusLink14L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.14.0.0.2.0.11.0.0
+      name: bacSocketStatusLink14L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "14"
+      - tag: unit_name
+        value: "link_14"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.0.0.0.0.0
+      name: bacSocketStatusLink15L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.0.0.1.0.0
+      name: bacSocketStatusLink15L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.0.0.2.0.0
+      name: bacSocketStatusLink15L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.0.0.3.0.0
+      name: bacSocketStatusLink15L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.1.0.4.0.0
+      name: bacSocketStatusLink15L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.1.0.5.0.0
+      name: bacSocketStatusLink15L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.1.0.6.0.0
+      name: bacSocketStatusLink15L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.1.0.7.0.0
+      name: bacSocketStatusLink15L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.2.0.8.0.0
+      name: bacSocketStatusLink15L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.2.0.9.0.0
+      name: bacSocketStatusLink15L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.2.0.10.0.0
+      name: bacSocketStatusLink15L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.15.0.0.2.0.11.0.0
+      name: bacSocketStatusLink15L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "15"
+      - tag: unit_name
+        value: "link_15"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.0.0.0.0.0
+      name: bacSocketStatusLink16L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.0.0.1.0.0
+      name: bacSocketStatusLink16L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.0.0.2.0.0
+      name: bacSocketStatusLink16L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.0.0.3.0.0
+      name: bacSocketStatusLink16L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.1.0.4.0.0
+      name: bacSocketStatusLink16L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.1.0.5.0.0
+      name: bacSocketStatusLink16L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.1.0.6.0.0
+      name: bacSocketStatusLink16L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.1.0.7.0.0
+      name: bacSocketStatusLink16L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.2.0.8.0.0
+      name: bacSocketStatusLink16L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.2.0.9.0.0
+      name: bacSocketStatusLink16L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.2.0.10.0.0
+      name: bacSocketStatusLink16L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.16.0.0.2.0.11.0.0
+      name: bacSocketStatusLink16L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "16"
+      - tag: unit_name
+        value: "link_16"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.0.0.0.0.0
+      name: bacSocketStatusLink17L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.0.0.1.0.0
+      name: bacSocketStatusLink17L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.0.0.2.0.0
+      name: bacSocketStatusLink17L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.0.0.3.0.0
+      name: bacSocketStatusLink17L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.1.0.4.0.0
+      name: bacSocketStatusLink17L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.1.0.5.0.0
+      name: bacSocketStatusLink17L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.1.0.6.0.0
+      name: bacSocketStatusLink17L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.1.0.7.0.0
+      name: bacSocketStatusLink17L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.2.0.8.0.0
+      name: bacSocketStatusLink17L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.2.0.9.0.0
+      name: bacSocketStatusLink17L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.2.0.10.0.0
+      name: bacSocketStatusLink17L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.17.0.0.2.0.11.0.0
+      name: bacSocketStatusLink17L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "17"
+      - tag: unit_name
+        value: "link_17"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.0.0.0.0.0
+      name: bacSocketStatusLink18L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.0.0.1.0.0
+      name: bacSocketStatusLink18L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.0.0.2.0.0
+      name: bacSocketStatusLink18L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.0.0.3.0.0
+      name: bacSocketStatusLink18L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.1.0.4.0.0
+      name: bacSocketStatusLink18L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.1.0.5.0.0
+      name: bacSocketStatusLink18L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.1.0.6.0.0
+      name: bacSocketStatusLink18L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.1.0.7.0.0
+      name: bacSocketStatusLink18L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.2.0.8.0.0
+      name: bacSocketStatusLink18L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.2.0.9.0.0
+      name: bacSocketStatusLink18L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.2.0.10.0.0
+      name: bacSocketStatusLink18L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.18.0.0.2.0.11.0.0
+      name: bacSocketStatusLink18L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "18"
+      - tag: unit_name
+        value: "link_18"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.0.0.0.0.0
+      name: bacSocketStatusLink19L1Outlet1
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "1"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.0.0.1.0.0
+      name: bacSocketStatusLink19L1Outlet2
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "2"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.0.0.2.0.0
+      name: bacSocketStatusLink19L1Outlet3
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "3"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.0.0.3.0.0
+      name: bacSocketStatusLink19L1Outlet4
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L1"
+      - tag: outlet
+        value: "4"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.1.0.4.0.0
+      name: bacSocketStatusLink19L2Outlet5
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "5"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.1.0.5.0.0
+      name: bacSocketStatusLink19L2Outlet6
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "6"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.1.0.6.0.0
+      name: bacSocketStatusLink19L2Outlet7
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "7"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.1.0.7.0.0
+      name: bacSocketStatusLink19L2Outlet8
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L2"
+      - tag: outlet
+        value: "8"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.2.0.8.0.0
+      name: bacSocketStatusLink19L3Outlet9
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "9"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.2.0.9.0.0
+      name: bacSocketStatusLink19L3Outlet10
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "10"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.2.0.10.0.0
+      name: bacSocketStatusLink19L3Outlet11
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "11"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+
+  - MIB: BACHMANN-BLUENETGEN2-MIB
+    symbol:
+      OID: 1.3.6.1.4.1.31770.2.2.9.1.1.5.19.0.0.2.0.11.0.0
+      name: bacSocketStatusLink19L3Outlet12
+    metric_tags:
+      - tag: unit_id
+        value: "19"
+      - tag: unit_name
+        value: "link_19"
+      - tag: phase
+        value: "L3"
+      - tag: outlet
+        value: "12"
+      - tag: measurement_level
+        value: "outlet"
+    metric_type: gauge
+

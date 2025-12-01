@@ -1,0 +1,17 @@
+extends:
+  - bachmann_inlet_metrics
+  - bachmann_phase_metrics
+  - bachmann_outlet_metrics
+  - bachmann_io_metrics
+  - bachmann_sensors_metrics
+  - bachmann_phase_status
+  - bachmann_outlet_status
+  - bachmann_inlet_status
+  - bachmann_global_status
+
+sysobjectid: 1.3.6.1.4.1.31770.*
+
+metadata:
+  device:
+    vendor: "bachmann"
+    type: "pdu"

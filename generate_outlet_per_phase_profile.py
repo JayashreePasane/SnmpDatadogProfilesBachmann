@@ -21,10 +21,10 @@ METRICS = [
     (19,  "bacActivePower",           "gauge"),
     (20,  "bacPeakActivePower",       "gauge"),
     (22,  "bacReactivePower",         "gauge"),
-    (32,  "bacApparentEnergy",        "counter"),
-    (34,  "bacReactiveEnergy",        "counter"),
-    (36,  "bacActiveEnergy",          "counter"),
-    (38,  "bacActiveEnergyUser",      "counter"),
+    (32,  "bacApparentEnergy",        "gauge"),
+    (34,  "bacReactiveEnergy",        "gauge"),
+    (36,  "bacActiveEnergy",          "gauge"),
+    (38,  "bacActiveEnergyUser",      "gauge"),
 ]
 
 #bluenetGen2VariableDataTable OID
@@ -85,7 +85,7 @@ for unit_id in UNIT_IDS:
                 obis = build_obis_phase_outlet(phase_idx, outlet, metric_code)
                 oid = snmp_oid_for_unit_and_obis(unit_id, obis)
 
-                name = f"{metric_base_name}{unit_suffix(unit_id)}{phase_name}Outlet{outlet}"
+                name = f"{metric_base_name}{unit_suffix(unit_id)}{phase_name}Outlet{outlet+1+(phase_idx*4)}"
 
                 print("  - MIB: BACHMANN-BLUENET-MIB")
                 print("    symbol:")
@@ -99,7 +99,7 @@ for unit_id in UNIT_IDS:
                 print("      - tag: phase")
                 print(f"        value: \"{phase_name}\"")
                 print("      - tag: outlet")
-                print(f"        value: \"{outlet}\"")
+                print(f"        value: \"{outlet+1+(phase_idx*4)}\"")
                 print("      - tag: measurement_level")
                 print("        value: \"outlet\"")
                 print(f"    metric_type: {metric_type}\n")

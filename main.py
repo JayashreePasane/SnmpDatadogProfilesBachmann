@@ -5,11 +5,15 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 
 GENERATORS = [
-    ("generate_inlet_profile.py",       "bachmann_inlet.yaml"),
-    ("generate_phase_profile.py",        "bachmann_phase.yaml"),
-    ("generate_outlet_per_phase_profile.py",    "bachmann_outlet.yaml"),
-    ("generate_io_profile_metrics.py",     "bachmann_io.yaml"),
-    ("generate_sensor_profile.py",     "bachmann_sensors.yaml"),
+    ("generate_inlet_profile.py",       "bachmann_inlet_metrics.yaml"),
+    ("generate_phase_profile.py",        "bachmann_phase_metrics.yaml"),
+    ("generate_outlet_per_phase_profile.py",    "bachmann_outlet_metrics.yaml"),
+    ("generate_io_profile_metrics.py",     "bachmann_io_metrics.yaml"),
+    ("generate_sensor_profile.py",     "bachmann_sensors_metrics.yaml"),
+    ("generate_phase_status_profile.py",     "bachmann_phase_status.yaml"),
+    ("generate_outlet_status_profile.py",     "bachmann_outlet_status.yaml"),
+    ("generate_inlet_status_profile.py",     "bachmann_inlet_status.yaml"),
+    ("generate_global_status_profile.py",     "bachmann_global_status.yaml"),
 ]
 
 def run_generator(script_name: str, output_name: str) -> None:
@@ -34,15 +38,19 @@ def run_generator(script_name: str, output_name: str) -> None:
 
 
 def write_parent_profile() -> None:
-    parent_path = BASE_DIR / "bachmann_pdu.yml"
+    parent_path = BASE_DIR / "bachmann_pdu.yaml"
     print(f"[INFO] Writing parent profile: {parent_path.name}")
 
     content = """extends:
-  - bachmann_inlet
-  - bachmann_phase
-  - bachmann_outlet
-  - bachmann_io
-  - bachmann_sensors
+  - bachmann_inlet_metrics
+  - bachmann_phase_metrics
+  - bachmann_outlet_metrics
+  - bachmann_io_metrics
+  - bachmann_sensors_metrics
+  - bachmann_phase_status
+  - bachmann_outlet_status
+  - bachmann_inlet_status
+  - bachmann_global_status
 
 sysobjectid: 1.3.6.1.4.1.31770.*
 
@@ -65,11 +73,15 @@ def main() -> None:
     write_parent_profile()
 
     print("\n[DONE] All profiles generated:")
-    print("  - bachmann_inlet.yaml")
-    print("  - bachmann_phase.yaml")
-    print("  - bachmann_outlet.yaml")
-    print("  - bachmann_io.yaml")
-    print("  - bachmann_sensors.yaml")
+    print("  - bachmann_inlet_metrics.yaml")
+    print("  - bachmann_phase_metrics.yaml")
+    print("  - bachmann_outlet_metrics.yaml")
+    print("  - bachmann_io_metrics.yaml")
+    print("  - bachmann_sensors_metrics.yaml")
+    print("  - bachmann_phase_status.yaml")
+    print("  - bachmann_outlet_status.yaml")
+    print("  - bachmann_inlet_status.yaml")
+    print("  - bachmann_global_status.yaml")
     print("  - bachmann_pdu.yaml (parent profile)")
 
 
