@@ -91,9 +91,9 @@ Each script prints a **complete Datadog SNMP profile** to stdout:
 
 ### Orchestrator
 
-main.py will:
+python3 main.py will:
 
-Run all generators from the GENERATORS list:
+1. Run all generators from the GENERATORS list:
 
 GENERATORS = [
 ("generate_inlet_profile.py", "bachmann_inlet_metrics.yaml"),
@@ -108,9 +108,9 @@ GENERATORS = [
 ]
 
 
-Generate all .yaml files.
+2. Generate all .yaml files.
 
-Create the parent profile bachmann_pdu.yaml using extends:
+3. Create the parent profile bachmann_pdu.yaml using extends:
 
 extends:
   - bachmann_inlet_metrics
